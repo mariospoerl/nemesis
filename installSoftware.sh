@@ -5,7 +5,14 @@
 ######################################################################
 
 # Install software i need
-packages='libreoffice-fresh'
+packages='libreoffice-fresh
+	  visual-studio-code-bin
+	  dotnet-host
+	  dotnet-sdk
+	  
+	  dotnet-host
+	  dotnet-sdk
+	  dotnet-runtimedotnet-runtime'
 
 for package in $packages
 do

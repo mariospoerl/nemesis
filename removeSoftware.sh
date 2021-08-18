@@ -11,7 +11,8 @@ packages='vivaldi
 	  vivaldi-ffmpeg-codecs
 	  peek
 	  nomacs
-	  termite'
+	  termite
+	  simplescreenrecorder'
 
 for package in $packages
 do
