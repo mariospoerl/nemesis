@@ -9,7 +9,7 @@ packages='libreoffice-fresh
 	  visual-studio-code-bin
 	  dotnet-host
 	  dotnet-sdk
-	  
+	  thunderbird
 	  dotnet-host
 	  dotnet-sdk
 	  dotnet-runtimedotnet-runtime'
