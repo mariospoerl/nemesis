@@ -12,7 +12,9 @@ packages='vivaldi
 	  peek
 	  nomacs
 	  termite
-	  simplescreenrecorder'
+	  simplescreenrecorder
+	  chromium
+	  firefox'
 
 for package in $packages
 do

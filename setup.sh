@@ -22,7 +22,7 @@ sudo cp /etc/skel/.bashrc ~/.bashrc && source ~/.bashrc
 paru -Syu --noconfirm
 
 # Copy my config files
-cp .vimrc ~/.vimrc 
+./installConfigs.sh
 
 # Run my script to remove software
 ./removeSoftware.sh
