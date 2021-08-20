@@ -14,7 +14,7 @@ echo "########################################"
 cp .vimrc ~/.vimrc 
 
 # Brave config
-tar -xzvf data/brave.tar.gz ~/.config
+tar -xzvf data/brave.tar.gz -C ~/.config
 
 echo "########################################"
 echo "# Finished copy configs "
