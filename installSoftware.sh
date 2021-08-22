@@ -8,10 +8,9 @@
 packages='libreoffice-fresh
 	  visual-studio-code-bin
 	  dotnet-host
-	  thunderbird
-	  dotnet-host
 	  dotnet-sdk
 	  dotnet-runtime
+	  evolution
 	  brave'
 
 for package in $packages
