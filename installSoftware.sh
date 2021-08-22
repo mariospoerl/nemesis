@@ -11,6 +11,7 @@ packages='libreoffice-fresh
 	  dotnet-sdk
 	  dotnet-runtime
 	  evolution
+	  insync
 	  brave'
 
 for package in $packages
