@@ -12,6 +12,7 @@ packages='vivaldi
 	  peek
 	  nomacs
 	  termite
+	  variety
 	  simplescreenrecorder
 	  chromium
 	  firefox'
